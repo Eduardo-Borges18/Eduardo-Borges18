@@ -33,10 +33,11 @@ Atualmente, estou no meu ciclo de aprendizado prático e buscando oportunidades 
 ### 📂 Projetos em Destaque
 
 #### 🤖 [TrAI-Questions](https://github.com/Eduardo-Borges18/TrAI-Questions) (Porto Digital - 2026)
-*Sistema Fullstack para automação de correções acadêmicas e geração de feedbacks construtivos via IA.*
+*Sistema Fullstack para geração de provas, automação de correções acadêmicas e feedbacks construtivos via IA.*
 * **Backend:** Django estruturando fluxos de dados resilientes, tratamento de falhas e retornos estruturados em formato JSON.
 * **Frontend:** React construindo uma aplicação web dinâmica e focada na experiência do usuário.
-* **Impacto:** Desenvolvido para reduzir a sobrecarga docente de correção de provas dissertativas.
+* **Impacto:** Desenvolvido para automatizar a criação e correção de provas e questões dissertativas, reduzindo a sobrecarga docente.
+
 #### 🍽️ [GastroManager](https://github.com/Eduardo-Borges18/GastroManager) (Projeto CESAR - 2025)
 *Sistema de gerenciamento voltado para o setor gastronômico focado na entrega de um MVP funcional.*
 * **Metodologias Ágeis:** Desenvolvimento em equipe utilizando Scrum e versionamento contínuo via Git/GitHub.
